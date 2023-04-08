@@ -1,5 +1,9 @@
 # Forward-kinematics-using-robo-analyzer
 
+
+## NAME: BHARATHI PRIYAN 
+## REG NO: 212221040028
+
 ## AIM: 
 To analyze the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer and polt the graph for link cordinates and joint angles
 ### COMPONENTS REQUIRED:
